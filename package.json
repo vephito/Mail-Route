@@ -1,0 +1,25 @@
+{
+  "name": "mail-route",
+  "version": "1.0.1",
+  "description": "change mail route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vephito/Mail-Route.git"
+  },
+  "keywords": [
+    "mail"
+  ],
+  "bin": {
+    "mailing": "index.js"
+  },
+  "author": "vephito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vephito/Mail-Route/issues"
+  },
+  "homepage": "https://github.com/vephito/Mail-Route#readme"
+}
